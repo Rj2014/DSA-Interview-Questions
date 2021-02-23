@@ -1,2 +1,1 @@
-# Amazon
-Amazon Coding Questions
+# DSA Interview Coding Questions
